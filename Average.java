@@ -14,4 +14,4 @@ public class Average {
         System.out.println("The Average of Three Numbers:"+avg);
 
     }
-}
+}.
