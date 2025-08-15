@@ -17,6 +17,7 @@ public class Charactersearching {
             }
         }
         System.out.println("The frequency of "+ch+":"+f);
+        scanner.close();
     }
-    
+   
 }

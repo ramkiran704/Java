@@ -12,6 +12,6 @@ public class Average {
         int avg=sum/3;
 
         System.out.println("The Average of Three Numbers:"+avg);
-
+        scanner.close();
     }
-}.
+}
