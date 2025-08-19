@@ -19,6 +19,7 @@ public class Armstrong {
         else{
             System.out.println("Not Armstrong");
         }
+        scanner.close();
     }
     
 }

@@ -15,5 +15,6 @@ public class Ifcondition {
         else{
             System.out.println(num+" Is Negative Number");
         }
+        scanner.close();
     }
 }

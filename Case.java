@@ -15,5 +15,6 @@ public class Case {
         else{
             System.out.println("Not a Charater.");
         }
+        scanner.close();
     }
 }

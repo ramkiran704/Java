@@ -28,6 +28,7 @@ public class MatrixTranspose {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
 

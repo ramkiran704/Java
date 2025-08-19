@@ -7,5 +7,6 @@ public class Area {
         int radius =scanner.nextInt();
 
         System.out.println("Area of Circle:"+(3.14*radius*radius));
+        scanner.close();
     }
 }

@@ -18,5 +18,7 @@ public class Noofvowels {
             }
         }
         System.out.println("Number of vowels: " + Count);
+        scanner.close();
     }
+    
 }

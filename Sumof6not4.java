@@ -13,5 +13,6 @@ public class Sumof6not4 {
         }
         System.out.println("Sum ="+ sum);
         System.out.println("Count ="+ count);
+        scanner.close();
     }
 }

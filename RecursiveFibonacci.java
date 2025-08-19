@@ -17,5 +17,6 @@ public class RecursiveFibonacci {
         for (int i = 0; i < terms; i++) {
             System.out.print(fibonacci(i) + " ");
         }
+        scanner.close();
     }
 }

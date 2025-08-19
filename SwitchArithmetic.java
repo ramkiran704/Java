@@ -19,8 +19,7 @@ public class SwitchArithmetic {
         System.out.println("5. Remainder");
 
         System.out.print("Enter your choice (1-5): ");
-        int choice = scanner.nextInt();..
-
+        int choice = scanner.nextInt();
 
         switch (choice) {
             case 1:

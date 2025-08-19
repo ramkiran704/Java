@@ -19,6 +19,7 @@ public class Sumofelements {
         }
 
         System.out.println("Sum of array elements: " + sum);
+        scanner.close();
     }
 }
 

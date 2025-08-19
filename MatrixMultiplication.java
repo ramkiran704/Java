@@ -13,7 +13,6 @@ public class MatrixMultiplication {
         int colsB = scanner.nextInt();
         if (colsA != rowsB) {
             System.out.println("Matrix multiplication not possible. Columns of A must equal rows of B.");
-            return;
         }
         int[][] A = new int[rowsA][colsA];
         int[][] B = new int[rowsB][colsB];
@@ -46,5 +45,6 @@ public class MatrixMultiplication {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
